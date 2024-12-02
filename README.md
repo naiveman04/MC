@@ -3,7 +3,7 @@ This repository contains all the Microcontroller lab experiments I have complete
 Each experiment demonstrates the practical application of microcontroller concepts such as interfacing with LEDs, LCDs, stepper motors, and sensors.
 These experiments are designed to enhance my understanding of embedded systems programming and hardware interfacing.
 
-<br> <br>
+<br>
 
 ## Purpose: 
 The primary purpose of this repository is to serve as a collection of hands-on work that highlights my skills in microcontroller programming, debugging, and interfacing with hardware components. 
